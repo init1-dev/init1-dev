@@ -81,7 +81,7 @@
 </p>
 
 <br><p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=init1-dev&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="init1-dev" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=init1-dev&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="init1-dev" />&nbsp;
     <img src="https://github-readme-stats.vercel.app/api?username=init1-dev&show_icons=true&theme=tokyonight&locale=en" alt="init1-dev" />
 </p>
 
