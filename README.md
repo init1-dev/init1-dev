@@ -80,8 +80,8 @@
     </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=init1-dev&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="init1-dev" /></p><br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=init1-dev&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="init1-dev" /></p><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=init1-dev&show_icons=true&theme=tokyonight&locale=en" alt="init1-dev" /></p><br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=init1-dev&show_icons=true&theme=tokyonight&locale=en" alt="init1-dev" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=init1-dev&theme=default" alt="init1-dev" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=init1-dev&theme=dark" alt="init1-dev" /></p>
