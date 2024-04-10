@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm In1t</h1>
 <h3 align="center">A passionate Full Stack Developer from Spain</h3>
 
-<p align="center">
     - 📫 How to reach me **init1.dev@gmail.com**
-</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
