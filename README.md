@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm In1t</h1>
 <h3 align="center">A passionate Full Stack Developer from Spain</h3>
 
-- 📫 How to reach me **init1.dev@gmail.com**
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/in1t-jorge-guillen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in1t-jorge-guillen" height="30" width="40" /></a>
