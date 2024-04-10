@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm In1t</h1>
-<h5 align="center">A passionate Full Stack Developer from Spain</h5>
+<h4 align="center">A passionate Full Stack Developer from Spain</h4>
 
-<h4 align="center">Connect with me:</h4>
+<h3 align="center">Connect with me:</h3>
 
 <p align="center">
     <a href="https://linkedin.com/in/in1t-jorge-guillen" target="blank">
