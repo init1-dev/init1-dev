@@ -3,10 +3,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/in1t-jorge-guillen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in1t-jorge-guillen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in1t-jorge-guillen" target="blank"><img align="center" src="/public/cv-file-interface-symbol-svgrepo-com.svg" alt="in1t-jorge-guillen" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">CV:</h3>
+<h3 align="center">Take a look at my resume</h3>
 <p align="center">
 <a href="https://drive.google.com/file/d/17L0qu0aSTz3pVPlYQ7_TTb80ljOs75qQ/view?usp=sharing" target="blank"><img align="center" src="https://www.svgrepo.com/show/112988/cv-file-interface-symbol.svg" alt="in1t-jorge-guillen" height="30" width="40" /></a>
 </p>
