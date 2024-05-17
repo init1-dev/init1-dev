@@ -3,12 +3,12 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/in1t-jorge-guillen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in1t-jorge-guillen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in1t-jorge-guillen" target="_blank" rel="noopener noreferrer nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in1t-jorge-guillen" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Take a look at my resume</h3>
 <p align="center">
-<a href="https://www.canva.com/design/DAGDQpxoKME/4q2FL__tBvkRIUK_pLyTHQ/view?utm_content=DAGDQpxoKME&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="blank"><img align="center" src="/public/cv-file-interface-symbol-svgrepo-com.svg" alt="in1t-jorge-guillen" height="30" width="40" /></a>
+<a href="https://www.canva.com/design/DAGDQpxoKME/4q2FL__tBvkRIUK_pLyTHQ/view?utm_content=DAGDQpxoKME&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank" rel="noopener noreferrer nofollow"><img align="center" src="/public/cv-file-interface-symbol-svgrepo-com.svg" alt="in1t-jorge-guillen" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
